@@ -1,0 +1,1 @@
+# Ensimmäinen harjoitus git-kurssilla
